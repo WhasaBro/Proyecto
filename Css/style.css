@@ -1,0 +1,111 @@
+/*font-family: 'Poppins', sans-serif;
+font-family: 'Poppins', sans-serif;*/
+.header{
+    background-image: url(../Img/Background\ Image\ +\ Overlay.svg);
+    background-repeat: no-repeat;
+    height: 1200px;
+}
+.img{
+    height: 40px;
+    background-color: #000000;
+    margin-top: 10px;
+}
+.texto{
+    float: right; 
+    color: #FFFFFF;
+    font-family: 'Poppins', sans-serif;
+}
+.p1{
+    float: left;
+    padding-top: 9.98px;
+}
+.p2{
+    float: left;
+    margin-left: 41px;
+    padding-top: 9.98px;
+}
+.p3{
+    float: left;
+    margin-left: 40px;
+    padding-left: 16px;
+    padding-right: 16px;
+    padding-top: 6.98px;
+    padding-bottom: 5.96px;
+    border: 2px solid #FFFFFF;
+}
+.text{
+    margin-top: 221px;
+}
+h1{
+    font-size: 144px;
+    font-family: 'Poppins', sans-serif;
+    color: #FFFFFF;
+}
+.button{
+    width: 180px;
+    padding-top: 20px;
+    padding-bottom: 17px;
+    padding-right: 64px;
+    padding-left: 65px;
+    font-size: 16px;
+    background-color: #0076FF;
+    color: #FFFFFF;
+    margin-top: 60px;
+}
+h2{
+    margin-top: 93px;
+    font-size: 144px;
+    color: #303030;
+}
+.tex{
+    margin-top: 60px;
+    font-size: 20px;
+    color: #303030;
+    margin-bottom: 150px;
+}
+.flecha{
+    height: 14px;
+    width: 46px;
+    margin-top: 190.93px;
+}
+.contenedor img{
+
+    margin: auto;
+    display: block;
+    
+    height:300px;
+}
+.twitter img{
+
+    margin:auto; 
+display: block;
+height: 250px;
+float: all;
+     padding-top: 30px;
+    
+
+}
+.negro img{
+    margin:auto; 
+display: block;
+height: 400px;
+float: all;
+     padding-top: 50px;
+}
+.logos img{
+    margin:auto; 
+display: block;
+height: 280px;
+float: all;
+     padding-top: 50px;
+
+
+}
+
+.p21 img{
+        margin:auto; 
+display: block;
+height: 200px;
+float: all;
+     padding-top: 50px;
+}
